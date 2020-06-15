@@ -1,0 +1,97 @@
+body {
+  background-color: pink;
+  font-family: Arial;
+  text-align: center;
+  
+}
+
+h1 {
+  font-family: Arial;
+  text-align: center;
+}
+
+h3 {
+  font-family: Arial;
+  text-align: center;
+}
+
+.you {
+display: flex;
+flex-direction: row;
+width:95%;
+padding-bottom: 15px;
+padding-top: 20px;
+padding-left: 100px;
+
+
+  
+}
+
+.compooper {
+  display: flex;
+flex-direction: row;
+width:95%;
+padding-bottom: 50px;
+padding-top: 15px;
+padding-left: 100px;
+
+
+  
+}
+
+.yourock {
+max-height: 20%;
+max-width: 20%;
+  
+}
+
+.youpaper {
+ 
+ max-height: 60%;
+max-width:  60%;
+}
+
+.youscissors {
+
+max-height: 20%;
+max-width:   20%;
+}
+
+
+
+.computerrock {
+max-height: 20%;
+max-width: 20%;
+  
+}
+
+.computerpaper {
+ 
+ max-height: 60%;
+max-width:  60%;
+}
+
+.computerscissors {
+
+max-height: 20%;
+max-width:   20%;
+}
+
+a:link {
+  color: hotpink;
+}
+
+/* visited link */
+a:visited {
+  color: hotpink;
+}
+
+/* mouse over link */
+a:hover {
+  color: purple;
+}
+
+/* selected link */
+a:active {
+  color: hotpink;
+}
